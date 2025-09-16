@@ -6,3 +6,8 @@ Team Members:
 Oliver Kettleson-Belinkie, OWK9@pitt.edu
 
 Phillip Lavrenyuk, PJL43@pitt.edu
+
+Jaiden Steele, JDH191@pitt.edu
+
+Bell Hsia, IBH5@pitt.edu
+
