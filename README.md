@@ -4,4 +4,5 @@ This is a computer vision based project that utilized image processing pipelines
 Team Members:
 
 Oliver Kettleson-Belinkie, OWK9@pitt.edu
+
 Phillip Lavrenyuk, PJL43@pitt.edu
