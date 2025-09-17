@@ -10,7 +10,7 @@ This is a computer vision based project that utilized image processing pipelines
 
 **Jaiden Steele**, JDH191@pitt.edu
 
-**Bell Hsia**, IBH5@pitt.edu"
+**Bell Hsia**, IBH5@pitt.edu
 
 ## To Do:
 1. Source/Locate the sheet music images
