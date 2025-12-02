@@ -12,7 +12,7 @@ This is a computer vision based project that utilized image processing pipelines
 
 **Bell Hsia**, IBH5@pitt.edu
 
-## To Do:
+## Completed:
 1. Source/Locate the sheet music images
 2. Think of/research common artifacts/noise found in sheet music images for preprocessing
 3. Create a function(s) that performs the needed preprocessing (e.g., filtering, enhancements)
